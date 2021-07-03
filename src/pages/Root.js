@@ -3,7 +3,6 @@ import {
     BrowserRouter as Router,
     Switch,
     Route,
-    Switch
 } from 'react-router-dom';
 import PagesPromotionSearch from './Promotion/Search/Search';
 import PagesPromotionForm from './Promotion/Form/Form';
